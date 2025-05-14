@@ -15,7 +15,7 @@ phases:
   build:
     commands:
       - echo Creating the build
-      - npm run build # To Generate the Build of source code
+      - npm run build # To Generate the Build of source code for our project
 
   post_build:
     commands:
