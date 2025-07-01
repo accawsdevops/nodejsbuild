@@ -4,7 +4,7 @@ import './App.css'; // Importing the CSS file for styles
 const App = () => {
   return (
     <div className="container">
-      <h1 className="text">Welcome to demo of Code Build-Deploy...</h1>
+      <h1 className="text">Welcome to the cloud automation...</h1>
     </div>
   );
 };
