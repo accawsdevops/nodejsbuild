@@ -1,4 +1,4 @@
-To install the CodeDeploy agent on an Amazon EC2 instance running Amazon Linux, follow these steps:
+To install the CodeDeploy agent on an Amazon EC2 instance running Amazon Linux, follow these steps:.
 
 1. **Connect to your EC2 instance**:
    Use SSH to connect to your instance. Replace `your-key.pem` with your key file and `ec2-user@your-instance-public-dns` with your instance's public DNS.
@@ -55,5 +55,6 @@ To install the CodeDeploy agent on an Amazon EC2 instance running Amazon Linux, 
 
 7. **Firewall settings (if applicable)**:
    Ensure that your instance's security group allows outbound access to the internet, as the CodeDeploy agent needs to communicate with the AWS CodeDeploy service.
+
 
 After completing these steps, your CodeDeploy agent should be up and running on your EC2 instance! If you encounter any issues, feel free to ask for help.
